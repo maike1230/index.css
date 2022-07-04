@@ -1,6 +1,30 @@
-# index.css
-position: relative;
-width: 1440px;
-height: 900px;
+#index.css
+/* Rectangle 1 */
 
-background: #FFFFFF;
+
+position: absolute;
+width: 1440px;
+height: 190px;
+left: 0px;
+top: 0px;
+
+background: #FEF400;
+
+/* новасти украины */
+
+
+position: absolute;
+width: 305px;
+height: 44px;
+left: 415px;
+top: 83px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
